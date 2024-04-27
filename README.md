@@ -8,7 +8,7 @@
 
 ## Small introduction
 
-We're building a unique app using ==Firebase== <img src="https://hackmd.io/_uploads/rkXN8j5-A.png" width=25px>. We've implemented secure user ==authentification== with ==Goolge==<img src="https://hackmd.io/_uploads/SyUdwocZ0.png" width=25px > ==login== and ==registration==, and a ==logout== function for seamless user experience. Now, we're moving on to the ==contacts== feature.
+We're building a unique app using **Firebase** <img src="https://hackmd.io/_uploads/rkXN8j5-A.png" width=25px>. We've implemented secure user **authentification** with **Goolge**img src="https://hackmd.io/_uploads/SyUdwocZ0.png" width=25px > **login** and **registration**, and a **logout** function for seamless user experience. Now, we're moving on to the **contacts** feature.
 
 ## UI/UX
 - [x] **Fonts**
