@@ -34,5 +34,6 @@ We're building a unique app using ==Firebase== <img src="https://hackmd.io/_uplo
 
 We are facing some problems with fututre plans like addition to retrofit.
 
-### **We hope to finish all the work up to date** ![gif](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif){width=10px}
+### **We hope to finish all the work up to date** ![gif](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
+
 
