@@ -4,7 +4,7 @@
 
 
 
-## Welcome! We are working on a social media app **DropInk** <img src="https://t4.ftcdn.net/jpg/02/43/53/09/360_F_243530927_LlHD8m2yDtapg6Kk8x8dnQunCcc8fvOr.jpg" width=60px>
+## Welcome! We are working on a social media app **DropInk** <img src="https://github.com/Politness/Final-project-Android/assets/103816402/61e33348-73e1-4985-bd7d-1533af988c06" width=60px>
 
 ## Small introduction
 
