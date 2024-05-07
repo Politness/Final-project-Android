@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:title="Dark Mode"
+            android:id="@+id/dark_mode"
+            android:icon="@drawable/dark_mode"
+            android:iconTint="@color/main_blue"
+            />
+        <item
+            android:title="Profile"
+            android:id="@+id/profile"
+            android:icon="@drawable/profile"
+            android:iconTint="@color/main_blue"
+            />
+        <item
+            android:title="New Group"
+            android:id="@+id/new_group"
+            android:icon="@drawable/new_group"
+            android:iconTint="@color/main_blue"
+            />
+
+    </group>
+
+</menu>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home2"
+        android:iconTint="@color/main_blue"
+        />
+    <item
+        android:title="Contact"
+        android:id="@+id/contact"
+        android:icon="@drawable/chat"
+        android:iconTint="@color/main_blue"
+        />
+    <item
+        android:title="Crypto"
+        android:id="@+id/crypto"
+        android:icon="@drawable/bitcoin"
+        android:iconTint="@color/main_blue"
+        />
+</menu>
